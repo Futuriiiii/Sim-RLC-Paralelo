@@ -1,1 +1,1 @@
-# Sim-RLC-Paralelo
+Programa feito para uma atividade de Eletricidade e Circuitos para Computação I, ministrada pelo professor Mardson Freitas de Amorim. O intuitio do programa é de simular a resoluçao de um circuito RLC paralelo específico.
