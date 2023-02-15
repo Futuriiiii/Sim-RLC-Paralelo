@@ -1,0 +1,1 @@
+# Sim-RLC-Paralelo
